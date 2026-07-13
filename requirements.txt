@@ -1,0 +1,12 @@
+# These exact versions were used to verify that every script in this
+# repository reproduces the numbers reported in the paper exactly
+# (Table 4's K-means/GMM comparison in particular was found to be sensitive
+# to scikit-learn's internal algorithm defaults across versions -- see the
+# note in code/section5.4_dry_bean/03_algorithm_comparison.py).
+# Newer versions will likely still work but may shift some ARI values
+# slightly; if you need exact reproduction, use these pinned versions.
+numpy==2.4.4
+pandas==3.0.2
+scikit-learn==1.8.0
+matplotlib==3.10.8
+seaborn==0.13.2

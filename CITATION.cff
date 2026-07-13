@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite both the paper and this archived release."
+type: software
+title: "bahmanshiri/blind-spot-map-pca-kmeans: Reproducibility package for 'Mapping the Blind Spots of PCA+K-means'"
+version: 1.0
+date-released: 2026-01-01
+doi: 10.5281/zenodo.21286583
+repository-code: "https://github.com/bahmanshiri/blind-spot-map-pca-kmeans"
+license: MIT
+authors:
+  - family-names: "Shiri Lonbar"
+    given-names: "Bahman"
+    email: Lonbarllm@gmail.com
+    affiliation: "Department of Computer Engineering, East Azerbaijan Science and Research Branch, Islamic Azad University, Tabriz, Iran"
+  - family-names: "Hasanifar"
+    given-names: "Zeinab"
+    affiliation: "Department of Accounting, Faculty of Management, University of Tehran, Tehran, Iran"
+preferred-citation:
+  type: article
+  title: "Mapping the Blind Spots of PCA+K-means: A Diagnostic Framework and Geometric Criterion for Minority Risk Segment Detection"
+  authors:
+    - family-names: "Shiri Lonbar"
+      given-names: "Bahman"
+    - family-names: "Hasanifar"
+      given-names: "Zeinab"
+  journal: "Applied Intelligence"
+  publisher:
+    name: "Springer"
+  year: 2026
+  notes: "Update volume/issue/page/DOI once the article record is assigned by the journal."
