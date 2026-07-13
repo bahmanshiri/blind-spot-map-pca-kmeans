@@ -1,2 +1,0 @@
-n_min,n_maj,minority_ratio,D2,BCSS_isolate,BCSS_majority_split,predicted_ratio_threshold,criterion_predicts_isolated,observed_ARI,observed_isolated,prediction_correct,dataset
-20663,569877,0.03499,34.6831,691581.17,16082872.45,0.8137,False,0.1049,False,True,"IEEE-CIS (full, natural ratio)"
