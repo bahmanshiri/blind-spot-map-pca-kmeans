@@ -1,0 +1,9 @@
+Metric,Value
+Dimensions after encoding,"165 (113,017 samples)"
+Explained variance PC1+PC2,"0.408 (PC1=0.217, PC2=0.191)"
+Purely statistical suggested k (max Silhouette),4 (Silhouette=0.405)
+Final selected k (business interpretability),3 (Silhouette=0.360)
+"Decision-tree accuracy (cluster validation, test set)",0.991
+5-fold cross-validation accuracy,0.990 ± 0.000
+Minority-group recovery ARI (k=2),0.089
+Records removed (duplicates/outliers),"0.0582 (6,983 of 120,000)"

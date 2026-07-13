@@ -1,0 +1,9 @@
+condition,k,branch,seed,ari,pc1_2_variance_explained
+"Correct k, no branch",2,False,42,0.9907023484215179,0.6710553830357574
+"Correct k, no branch",2,False,43,1.0,0.6694540704212117
+"Correct k, with branch",2,True,42,0.9907023484215179,0.5041217097974406
+"Correct k, with branch",2,True,43,1.0,0.5029155961549236
+"Mismatched k, no branch",3,False,42,0.18889256368068708,0.6710553830357574
+"Mismatched k, no branch",3,False,43,0.20140999433680762,0.6694540704212117
+"Mismatched k, with branch (primary dataset)",3,True,42,0.1888349222513304,0.5041217097974406
+"Mismatched k, with branch (primary dataset)",3,True,43,0.2013757387598408,0.5029155961549236

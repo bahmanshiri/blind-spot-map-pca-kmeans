@@ -1,0 +1,8 @@
+cls,n_min,n_maj,minority_ratio,D2,BCSS_isolate,BCSS_majority_split,predicted_ratio_threshold,criterion_predicts_isolated,observed_ARI,observed_isolated,prediction_correct
+BARBUNYA,1322,12221,0.0976,5.953,7101.5,83486.9,1.1476,False,0.095,False,True
+BOMBAY,522,13021,0.0385,99.268,49820.8,70916.3,0.0549,False,0.041,False,True
+CALI,1630,11913,0.1204,12.401,17781.3,69923.6,0.4733,False,0.162,False,True
+DERMASON,3546,9997,0.2618,11.587,30330.1,63333.0,0.5467,False,0.106,False,True
+HOROZ,1860,11683,0.1373,20.18,32379.3,75505.1,0.3203,False,0.187,False,True
+SEKER,2027,11516,0.1497,22.426,38654.6,65329.9,0.253,False,-0.004,False,True
+SIRA,2636,10907,0.1946,0.661,1403.0,93972.2,13.037,False,-0.003,False,True
